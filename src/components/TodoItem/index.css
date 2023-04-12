@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.heading {
+  color: #000000;
+  font-family: Open Sans;
+  font-weight: bolder;
+  font-size: 15px;
+  margin: 11px;
+}
+.button {
+  border-color: #ff0b37;
+  height: 23px;
+  width: 79px;
+  border-radius: 6px;
+  border-width: 0px;
+  color: #ff0b37;
+}
+.title {
+  display: flex;
+  justify-content: space-around;
+  align-items: space-around;
+}
